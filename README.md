@@ -1,3 +1,4 @@
+Do not forget to add open ai api key in src/pages/popup/ OPENAI_API_KEY on line 11 without it the aplication will not work, then folow the rest of the read me
 
 <div align="center">
 <img src="public/icon-128.png" alt="logo"/>
